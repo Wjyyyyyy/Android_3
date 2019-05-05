@@ -81,8 +81,7 @@
 </LinearLayout>
 ```
 
-截图如下：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401173311828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
+![](https://github.com/Wjyyyyyy/Image/blob/master/3.1.png)
 
 2.
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401173347643.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
@@ -139,10 +138,7 @@ public void onCreate(Bundle savedInstanceState) {
     </LinearLayout>
 </LinearLayout>
 ```
-截图如下：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401173651546.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
+![](https://github.com/Wjyyyyyy/Image/blob/master/3.2.png)
 
 
 3.
@@ -209,20 +205,7 @@ public boolean onOptionsItemSelected(MenuItem mi){
         </menu>
     </item>
 </menu>
-```
-
-截图如下：
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401174218725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401174239571.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401174250419.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-4.
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401174409515.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
+``
 
 
 部分代码如下：
@@ -250,7 +233,7 @@ listView.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE_MODAL);
 截图如下：
 
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190401174712720.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
+![](https://github.com/Wjyyyyyy/Image/blob/master/3.3.png)
 
 
 
